@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vitgri1.github.io/
+Site published at: https://vitgri1.github.io/03-2-Tire-2/
 
 Design: [Tire](https://cdn.dribbble.com/users/288281/screenshots/2359203/media/14f900874f149a4a237ae9c73a6d3544.png)
 
