@@ -1,3 +1,46 @@
-main{
+body{
+    margin: 0;
+}
+
+.container{
+    display: inline-block;
+    margin: 0;
+    width: 100%;
     background-color: aqua;
+}
+
+.logo-link{
+    float: left;
+    margin-left: 5%;
+}
+
+.logo-default,
+.logo-red{
+    height: 30px;
+    object-fit: contain;
+}
+
+.logo-link > .logo-default,
+.logo-link:hover > .logo-red{
+    display: block;
+}
+
+.logo-link > .logo-red,
+.logo-link:hover > .logo-default{
+    display: none;
+}
+
+.drop-down{
+    float: right;
+    margin-right: 5%;
+    font-size: 20px;
+    line-height: 1em;
+    text-decoration: none;
+    color: #000;
+    margin-top: calc(15px - 0.5em);
+}
+
+.logo-link,
+.drop-down{
+    margin-top: 40px;
 }
