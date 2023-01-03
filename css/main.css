@@ -7,6 +7,8 @@ body{
     margin: 0;
     width: 100%;
     background-color: aqua;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .logo-link{
@@ -43,4 +45,15 @@ body{
 .logo-link,
 .drop-down{
     margin-top: 40px;
+}
+.main-container{
+    display: inline-block;
+    font-size: 150px;
+    line-height: 1em;
+    margin: 0;
+}
+.main-picture{
+    height: 0.75em;
+    margin-right: -0.28em;
+    margin-left: -0.51em;
 }
