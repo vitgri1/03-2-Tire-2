@@ -13,6 +13,7 @@ body{
 .logo-link{
     float: left;
     margin-left: 5%;
+    user-select: none;
 }
 
 .logo-default,
@@ -51,6 +52,7 @@ body{
     line-height: 1em;
     margin: 0;
     margin-top: 50px;
+    user-select: none;
 }
 
 .main-picture{
@@ -79,6 +81,7 @@ body{
     background-color: #282A2F;
     text-decoration: none;
     margin-top: 1.5em;
+    user-select: none;
 }
 .button:hover{
     box-shadow: 0 0 7px 5px red;}
